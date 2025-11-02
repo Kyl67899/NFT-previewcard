@@ -30,7 +30,7 @@ body {
 }
 
 /* image */
-.image{
+.image {
   /* margin: 10px 25px 0; */
   position: relative;
 }
@@ -140,7 +140,6 @@ hr {
   background-color: var(--text-cyan);
 } */
 
-
 .overlay {
   height: 99%;
   width: 95%;
@@ -164,7 +163,7 @@ hr {
 }
 
 .title:hover,
-.author span:hover{
+.author span:hover {
   color: var(--text-cyan);
 }
 
