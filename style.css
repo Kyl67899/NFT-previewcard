@@ -31,13 +31,14 @@ body {
 
 /* image */
 .image{
+  /* margin: 10px 25px 0; */
   position: relative;
 }
 
 .img {
   width: 320px;
   height: auto;
-  margin: 10px 25px 0;
+  /* margin: 10px 25px 0; */
   border-radius: 15px;
 }
 
@@ -141,12 +142,13 @@ hr {
 
 
 .overlay {
-  height: 100%;
-  width: 100%;
+  height: 99%;
+  width: 95%;
   border-radius: 5px;
   position: absolute;
   top: 0;
   opacity: 0;
+  margin: 8px 8px 0;
 }
 
 .overlay:hover {
